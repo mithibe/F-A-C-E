@@ -37,9 +37,7 @@ python cli.py --source <image folder path> --destination <pass folder> --rejects
 # TODO
 
 - Sort images according to size
-- Remove black or blank images
-- Remove white/gray images
-- Remove blurry images
-- Use multithreading to increase performance
-- Remove images with no meter readings
+- Reject black or blank images
+- Reject white/gray images
+- Reject blurry images
 - Progress functionality
